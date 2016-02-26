@@ -1,0 +1,5 @@
+<ifConditionBasic>
+				<key myvalue="PsList-Name"/>
+				<value myvalue="svchost.exe"/>
+				<collection myvalue="PsListCollection"/>
+			</ifConditionBasic>

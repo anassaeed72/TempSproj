@@ -1,0 +1,4 @@
+<operation>
+		<operationName myvalue="TCP_DUMP"/>
+		<operationInputFile myvalue="MemoryDumps/Bulk_Extractor/packets.pcap"/>
+	</operation>
